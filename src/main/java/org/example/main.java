@@ -20,6 +20,7 @@ class Main {
 
         System.out.println(curso);
 
+
         curso.eliminarAlumno(3);
 
         System.out.println("Después de eliminar:\n");
